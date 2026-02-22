@@ -83,7 +83,7 @@ export default function Hero() {
             <img 
               alt="Portrait" 
               className="absolute inset-0 w-full h-full object-cover object-center transition-transform duration-700 group-hover:scale-105 z-20" 
-              src="src/hero_image.png"
+              src="/hero_image.png"
               referrerPolicy="no-referrer"
             />
             <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-transparent to-gray-50 dark:to-[#0A0A0B] opacity-40 z-10"></div>
