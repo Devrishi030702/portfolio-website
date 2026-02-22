@@ -14,7 +14,7 @@ export default function About() {
           <div className="aspect-square rounded-2xl overflow-hidden bg-gray-100 dark:bg-zinc-800">
             {/* CUSTOMIZE: Replace with your actual profile image */}
             <img 
-              src="public/About.jpeg 
+              src="public/About.jpeg"
               alt="Profile" 
               className="w-full h-full object-cover"
               referrerPolicy="no-referrer"
