@@ -6,7 +6,7 @@ const projects = [
   {
     title: 'Brand Logo Designing',
     description: 'Establishing market presence with a professionally engineered logo showcasing upmost clarity and functional longevity',
-    image: 'https://picsum.photos/seed/proj1/600/400',
+    image: 'https://i.pinimg.com/736x/32/6a/cb/326acbdc70bc1291cceecbf9e2efd221.jpg',
     tags: ['illustrator', 'Pixelmator'],
     demo: '#'
   },
