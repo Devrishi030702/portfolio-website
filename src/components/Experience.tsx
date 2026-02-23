@@ -27,7 +27,7 @@ const experiences = [
     type: 'education',
     title: 'Bachelors, International Business and Engineering',
     organization: 'Technische Hochschule Würzburg-Schweinfurt',
-    date: '2025 - on going',
+    date: 'on going',
     description: 'Pursuing a degree combining international business strategies with engineering principles.'
   }
 ];
