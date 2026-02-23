@@ -9,7 +9,7 @@ export default function Footer() {
     <footer className="bg-white dark:bg-zinc-950 border-t border-gray-200 dark:border-zinc-800 py-12 px-4 sm:px-6 lg:px-8">
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-6">
         <div className="text-center md:text-left">
-          <a href="#" className="text-xl font-bold tracking-tighter mb-2 block">Devrishi<span className="text-indigo-600 dark:text-indigo-400">.</span></a>
+          <a href="#" className="text-xl font-bold tracking-tighter mb-2 block">Devrishi Saha<span className="text-indigo-600 dark:text-indigo-400">.</span></a>
           <p className="text-gray-500 dark:text-gray-400 text-sm">
             © {new Date().getFullYear()} All rights reserved.
           </p>
