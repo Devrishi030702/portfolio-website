@@ -24,7 +24,7 @@ const testimonials = [
   {
     quote: "Expertly captured our local roots with a modern logo that has become a recognizable symbol of quality in Punjab.",
     author: "Anshu Asija",
-    role: "Bhagson The Store, Punjab",
+    role: "Bhagson's Desi Baazar, Punjab",
     image: "https://picsum.photos/seed/anshu/200/200"
   }
 ];
