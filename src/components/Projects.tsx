@@ -4,9 +4,9 @@ import { ExternalLink, Github } from 'lucide-react';
 // CUSTOMIZE: Add your actual projects here
 const projects = [
   {
-    title: 'Brand Logo Designing',
+    title: 'Logo & Vector Designing',
     description: 'Establishing market presence with a professionally engineered logo showcasing upmost clarity and functional longevity',
-    image: 'https://i.pinimg.com/736x/32/6a/cb/326acbdc70bc1291cceecbf9e2efd221.jpg',
+    image: 'https://i.pinimg.com/736x/01/a3/6b/01a36b466c206784a7c15b7e0711ff16.jpg',
     tags: ['illustrator', 'Pixelmator'],
     demo: '#'
   },
