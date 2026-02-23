@@ -4,14 +4,14 @@ import { motion } from 'motion/react';
 const experiences = [
   {
     type: 'work',
-    title: 'Graphic Designing Team Lead (Social Media & Promotions)',
+    title: 'Treasurer & Graphic Designing Team Lead (Social Media & Promotions)',
     organization: 'The Music Club, Manipal University Jaipur',
     date: 'June 2022 - May 2023',
     description: 'Led the graphic design team focusing on social media and promotional content.'
   },
   {
     type: 'work',
-    title: 'Graphic Designing Team Lead (Promotions)',
+    title: 'Dep. Gen. Sec. & Graphic Designing Team Lead (Promotions)',
     organization: 'IEI Mechatronic Student Chapter, Manipal University Jaipur',
     date: 'May 2021 - June 2021',
     description: 'Directed promotional graphic design initiatives for the student chapter.'
