@@ -41,7 +41,7 @@ export default function About() {
           <div className="mt-8 grid grid-cols-2 gap-6">
             {/* CUSTOMIZE: Your stats */}
             <div>
-              <h3 className="font-bold text-3xl text-gray-900 dark:text-white mb-1">3+</h3>
+              <h3 className="font-bold text-3xl text-gray-900 dark:text-white mb-1">4+</h3>
               <p className="text-sm text-gray-500 dark:text-gray-400">Years Experience</p>
             </div>
             <div>
