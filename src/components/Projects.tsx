@@ -20,7 +20,7 @@ const projects = [
   {
     title: 'Portfolio Designing  ',
     description: 'curated collection of high-energy, thumb-stopping media. I specialize in trend-aware content that speaks the language of today’s digital consumer',
-    image: 'https://picsum.photos/seed/proj3/600/400',
+    image: 'https://i.pinimg.com/736x/f1/c4/80/f1c480fe5bbaeeee528fa2af979d6d36.jpg',
     tags: ['Photoshop', 'illustrator', 'Pixelmator', 'express'],
     demo: '#'
   },
