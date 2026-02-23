@@ -13,7 +13,7 @@ const projects = [
   {
     title: 'Brand Promotional Content',
     description: 'specialize in crafting high-impact promotional content that bridges the gap between brands and their audiences.',
-    image: 'https://i.pinimg.com/736x/bb/3f/d4/bb3fd49fd2fd2eaecfcea0008815ec4b.jpg',
+    image: 'https://i.pinimg.com/736x/96/b9/b6/96b9b6c1c0891035ceee6b677c8bec07.jpg',
     tags: ['Photoshop', 'illustrator', 'Pixelmator', 'express'],
     demo: '#'
   },
