@@ -27,7 +27,7 @@ const projects = [
   {
     title: 'Photography',
     description: 'Complete visual overhaul for a tech startup, including logo design, typography, and social media guidelines.',
-    image: 'https://picsum.photos/seed/proj4/600/400',
+    image: 'https://i.pinimg.com/736x/66/6e/8d/666e8df439e28f0e44a9603ae19f4312.jpg',
     tags: ['Photoshop', 'Pixelmator'],
     demo: '#'
   }
