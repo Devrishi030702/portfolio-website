@@ -8,7 +8,7 @@ const projects = [
     description: 'Establishing market presence with a professionally engineered logo showcasing upmost clarity and functional longevity',
     image: 'https://i.pinimg.com/736x/39/7a/39/397a39c800a298e24f4fafea00a692fb.jpg',
     tags: ['illustrator', 'Pixelmator'],
-    demo: '#'
+    demo: 'https://pin.it/7brA5GkZ2'
   },
   {
     title: 'Brand Promotional Content',
