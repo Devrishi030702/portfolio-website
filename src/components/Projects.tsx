@@ -6,7 +6,7 @@ const projects = [
   {
     title: 'Logo & Vector Designing',
     description: 'Establishing market presence with a professionally engineered logo showcasing upmost clarity and functional longevity',
-    image: 'https://pin.it/19xqyZikJ',
+    image: 'https://i.pinimg.com/736x/39/7a/39/397a39c800a298e24f4fafea00a692fb.jpg',
     tags: ['illustrator', 'Pixelmator'],
     demo: '#'
   },
