@@ -15,21 +15,21 @@ const projects = [
     description: 'specialize in crafting high-impact promotional content that bridges the gap between brands and their audiences.',
     image: 'https://i.pinimg.com/736x/96/b9/b6/96b9b6c1c0891035ceee6b677c8bec07.jpg',
     tags: ['Photoshop', 'illustrator', 'Pixelmator', 'express'],
-    demo: '#'
+    demo: 'https://pin.it/28k3xv74p'
   },
   {
     title: 'Portfolio Designing  ',
     description: 'curated collection of high-energy, thumb-stopping media. I specialize in trend-aware content that speaks the language of today’s digital consumer',
     image: 'https://i.pinimg.com/736x/f1/c4/80/f1c480fe5bbaeeee528fa2af979d6d36.jpg',
     tags: ['Photoshop', 'illustrator', 'Pixelmator', 'express'],
-    demo: '#'
+    demo: 'https://pin.it/6OCiIFZuS'
   },
   {
     title: 'Photography',
     description: 'Complete visual overhaul for a tech startup, including logo design, typography, and social media guidelines.',
     image: 'https://i.pinimg.com/736x/66/6e/8d/666e8df439e28f0e44a9603ae19f4312.jpg',
     tags: ['Photoshop', 'Pixelmator'],
-    demo: '#'
+    demo: 'https://pin.it/5zBRCNEwj'
   }
 ];
 
