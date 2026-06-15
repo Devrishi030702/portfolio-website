@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # CUSTOMIZE: Replace with your actual live domain
-Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: https://devrishisaha.eu/sitemap.xml
