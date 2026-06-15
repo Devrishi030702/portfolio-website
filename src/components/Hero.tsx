@@ -18,7 +18,7 @@ export default function Hero() {
         <div className="inline-flex items-center justify-center gap-3 px-6 py-2 rounded-full bg-white/5 border border-white/10 backdrop-blur-sm shadow-lg">
           <p className="text-gray-600 dark:text-gray-300 text-sm md:text-base font-light tracking-wide">
             {/* CUSTOMIZE: Your Name and Location */}
-            Hi! I'm Devrishi <span className="mx-2 text-gray-400 dark:text-gray-600">|</span> Based in Germany
+            Hi! I'm Devrishi Saha <span className="mx-2 text-gray-400 dark:text-gray-600">|</span> Based in Germany
           </p>
         </div>
       </motion.div>
